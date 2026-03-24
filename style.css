@@ -55,6 +55,8 @@ body {
 .header h1 {
     font-size: 3rem;
     font-weight: 800;
+    word-break: keep-all;
+    overflow-wrap: break-word;
     background: linear-gradient(135deg, #ffffff, #94a3b8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -252,7 +254,8 @@ body {
 
 .card-header {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
+    justify-content: space-between;
     gap: 1rem;
     margin-bottom: 0.8rem;
 }

@@ -92,7 +92,6 @@ function renderCards() {
             ${imgHtml}
             <div class="card-content-wrapper">
                 <div class="card-header">
-                    <div class="rank-badge">${card.rank}</div>
                     <div class="card-name-wrapper">
                         <div class="card-name-row">
                             <div class="card-name">${card.cardName}</div>
@@ -100,6 +99,7 @@ function renderCards() {
                         </div>
                         ${gdsnoText}
                     </div>
+                    <div class="rank-badge">${card.rank}</div>
                 </div>
                 <div class="card-reason">${card.reason}</div>
             </div>
