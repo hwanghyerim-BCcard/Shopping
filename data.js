@@ -148,15 +148,15 @@ const rankingData = {
     },
     {
       "rank": 4,
-      "cardName": "BC 바로 ZONE 카드",
-      "reason": "옥션 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
-      "isFallback": true
-    },
-    {
-      "rank": 5,
       "cardName": "신세계 BC 바로 리워드 플러스",
       "reason": "쇼핑 카테고리(대형마트, 온라인 카테고리 등) 결제 시 페이북 머니 5% 특별 적립",
       "isFallback": false
+    },
+    {
+      "rank": 5,
+      "cardName": "BC 바로 ZONE 카드",
+      "reason": "옥션 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
+      "isFallback": true
     }
   ],
   "NOL": [
@@ -200,15 +200,15 @@ const rankingData = {
     },
     {
       "rank": 2,
-      "cardName": "신세계 BC 바로 콰트로 플러스",
-      "reason": "오늘의집 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
-      "isFallback": true
-    },
-    {
-      "rank": 3,
       "cardName": "BC 바로 KaPick",
       "reason": "안주하지 않는 쇼핑 혜택! 특별가맹점(오늘의집 등) 결제 시 5% 픽업(Pick) 적립",
       "isFallback": false
+    },
+    {
+      "rank": 3,
+      "cardName": "신세계 BC 바로 콰트로 플러스",
+      "reason": "오늘의집 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
+      "isFallback": true
     },
     {
       "rank": 4,
@@ -258,21 +258,21 @@ const rankingData = {
   "예스24": [
     {
       "rank": 1,
+      "cardName": "신세계 BC 바로 리워드 플러스",
+      "reason": "생활 카테고리(서점 등) 결제 시 월 최대 3만 포인트까지 페이북 머니 4% 특별 적립",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "BC 바로 ZONE 카드",
       "reason": "예스24 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "예스24 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
       "isFallback": true
-    },
-    {
-      "rank": 3,
-      "cardName": "신세계 BC 바로 리워드 플러스",
-      "reason": "생활 카테고리(서점 등) 결제 시 월 최대 3만 포인트까지 페이북 머니 4% 특별 적립",
-      "isFallback": false
     },
     {
       "rank": 4,
@@ -450,21 +450,21 @@ const rankingData = {
   "교보문고": [
     {
       "rank": 1,
+      "cardName": "신세계 BC 바로 리워드 플러스",
+      "reason": "생활 카테고리(서점 등) 결제 시 월 최대 3만 포인트까지 페이북 머니 4% 특별 적립",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "BC 바로 ZONE 카드",
       "reason": "교보문고 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "교보문고 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
       "isFallback": true
-    },
-    {
-      "rank": 3,
-      "cardName": "신세계 BC 바로 리워드 플러스",
-      "reason": "생활 카테고리(서점 등) 결제 시 월 최대 3만 포인트까지 페이북 머니 4% 특별 적립",
-      "isFallback": false
     },
     {
       "rank": 4,
