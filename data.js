@@ -34,33 +34,33 @@ const rankingData = {
   "지마켓": [
     {
       "rank": 1,
+      "cardName": "신세계 BC 바로 SEVEN FLEX",
+      "reason": "스마일페이(SmilePay) 등 간편결제 이용 시 7% 할인이 적용되어 지마켓 결제에 매우 강력합니다.",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "BC 바로 KaPick",
       "reason": "안주하지 않는 쇼핑 혜택! 특별가맹점(지마켓 등) 결제 시 5% 픽업(Pick) 적립",
       "isFallback": false
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "주요 온라인몰(쿠팡, G마켓, 옥션, 11번가 등) 결제 시 7% 결제일 할인",
       "isFallback": false
     },
     {
-      "rank": 3,
+      "rank": 4,
       "cardName": "신세계 BC 바로 리워드 플러스",
       "reason": "쇼핑 카테고리(대형마트, 온라인 카테고리 등) 결제 시 페이북 머니 5% 특별 적립",
       "isFallback": false
     },
     {
-      "rank": 4,
+      "rank": 5,
       "cardName": "BC 바로 클리어 플러스",
       "reason": "주요 온라인 쇼핑몰(지마켓 등) 결제 시 7% 청구 할인",
       "isFallback": false
-    },
-    {
-      "rank": 5,
-      "cardName": "BC 바로 ZONE 카드",
-      "reason": "지마켓 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
-      "isFallback": true
     }
   ],
   "지그재그": [
@@ -130,32 +130,32 @@ const rankingData = {
   "옥션": [
     {
       "rank": 1,
+      "cardName": "신세계 BC 바로 SEVEN FLEX",
+      "reason": "스마일페이(SmilePay) 등 간편결제 이용 시 7% 할인이 적용되어 옥션 결제에 매우 강력합니다.",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "주요 온라인몰(쿠팡, G마켓, 옥션, 11번가 등) 결제 시 7% 결제일 할인",
       "isFallback": false
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 리워드 플러스",
       "reason": "쇼핑 카테고리(대형마트, 온라인 카테고리 등) 결제 시 페이북 머니 5% 특별 적립",
       "isFallback": false
     },
     {
-      "rank": 3,
+      "rank": 4,
       "cardName": "BC 바로 클리어 플러스",
       "reason": "주요 온라인 쇼핑몰(옥션 등) 결제 시 7% 청구 할인",
       "isFallback": false
     },
     {
-      "rank": 4,
+      "rank": 5,
       "cardName": "BC 바로 ZONE 카드",
       "reason": "옥션 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
-      "isFallback": true
-    },
-    {
-      "rank": 5,
-      "cardName": "케이뱅크 SIMPLE 카드",
-      "reason": "전용 할인 카드가 없다면, 전월 실적 조건 제한 없이 어디서나 0.8% 기본 청구할인을 즉시 받을 수 있는 이 카드를 차선책으로 사용해 보세요.",
       "isFallback": true
     }
   ],
@@ -738,32 +738,32 @@ const rankingData = {
   "W컨셉": [
     {
       "rank": 1,
+      "cardName": "신세계 BC 바로 SEVEN FLEX",
+      "reason": "W컨셉 및 주요 신세계 계열 결제 시 7% 결제일 할인을 제공하는 최고의 전용 가맹점 혜택입니다.",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "BC 바로 ZONE 카드",
       "reason": "W컨셉 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "W컨셉 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "cardName": "케이뱅크 SIMPLE 카드",
       "reason": "전용 할인 카드가 없다면, 전월 실적 조건 제한 없이 어디서나 0.8% 기본 청구할인을 즉시 받을 수 있는 이 카드를 차선책으로 사용해 보세요.",
       "isFallback": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "cardName": "GOAT BC 바로카드",
       "reason": "비록 특별 제휴는 없으나, 실적이나 한도 없이 1.5% ~ 최대 3% 페이북 머니가 범용적으로 무조건 적립되어 유리합니다.",
-      "isFallback": true
-    },
-    {
-      "rank": 5,
-      "cardName": "BC 바로 에어 마스터",
-      "reason": "W컨셉 제휴는 아니지만, 전월 실적 조건 없이 1,000원당 1 마일리지가 기본 적립되어 범용 카드로 활용성이 높습니다.",
       "isFallback": true
     }
   ],
