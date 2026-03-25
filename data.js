@@ -322,64 +322,64 @@ const rankingData = {
   "트립닷컴": [
     {
       "rank": 1,
+      "cardName": "BC바로 MACAO 카드",
+      "reason": "해당 몰 전용 혜택은 없으나, 트래블월렛 기능이 내장되어 있어 여행을 준비 중이시라면 가장 유용하게 쓸 수 있는 해외결제 필수 카드입니다.",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "BC 바로 ZONE 카드",
       "reason": "트립닷컴 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "트립닷컴 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "cardName": "GOAT BC 바로카드",
       "reason": "비록 특별 제휴는 없으나, 실적이나 한도 없이 1.5% ~ 최대 3% 페이북 머니가 범용적으로 무조건 적립되어 유리합니다.",
       "isFallback": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "cardName": "케이뱅크 SIMPLE 카드",
       "reason": "전용 할인 카드가 없다면, 전월 실적 조건 제한 없이 어디서나 0.8% 기본 청구할인을 즉시 받을 수 있는 이 카드를 차선책으로 사용해 보세요.",
-      "isFallback": true
-    },
-    {
-      "rank": 5,
-      "cardName": "BC 바로 에어 마스터",
-      "reason": "트립닷컴 제휴는 아니지만, 전월 실적 조건 없이 1,000원당 1 마일리지가 기본 적립되어 범용 카드로 활용성이 높습니다.",
       "isFallback": true
     }
   ],
   "호텔스닷컴": [
     {
       "rank": 1,
+      "cardName": "BC바로 MACAO 카드",
+      "reason": "해당 몰 전용 혜택은 없으나, 트래블월렛 기능이 내장되어 있어 여행을 준비 중이시라면 가장 유용하게 쓸 수 있는 해외결제 필수 카드입니다.",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "BC 바로 ZONE 카드",
       "reason": "호텔스닷컴 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "호텔스닷컴 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "cardName": "GOAT BC 바로카드",
       "reason": "비록 특별 제휴는 없으나, 실적이나 한도 없이 1.5% ~ 최대 3% 페이북 머니가 범용적으로 무조건 적립되어 유리합니다.",
       "isFallback": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "cardName": "케이뱅크 SIMPLE 카드",
       "reason": "전용 할인 카드가 없다면, 전월 실적 조건 제한 없이 어디서나 0.8% 기본 청구할인을 즉시 받을 수 있는 이 카드를 차선책으로 사용해 보세요.",
-      "isFallback": true
-    },
-    {
-      "rank": 5,
-      "cardName": "BC 바로 에어 마스터",
-      "reason": "호텔스닷컴 제휴는 아니지만, 전월 실적 조건 없이 1,000원당 1 마일리지가 기본 적립되어 범용 카드로 활용성이 높습니다.",
       "isFallback": true
     }
   ],
@@ -418,32 +418,32 @@ const rankingData = {
   "아고다": [
     {
       "rank": 1,
+      "cardName": "BC바로 MACAO 카드",
+      "reason": "해당 몰 전용 혜택은 없으나, 트래블월렛 기능이 내장되어 있어 여행을 준비 중이시라면 가장 유용하게 쓸 수 있는 해외결제 필수 카드입니다.",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "BC 바로 ZONE 카드",
       "reason": "아고다 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "아고다 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "cardName": "GOAT BC 바로카드",
       "reason": "비록 특별 제휴는 없으나, 실적이나 한도 없이 1.5% ~ 최대 3% 페이북 머니가 범용적으로 무조건 적립되어 유리합니다.",
       "isFallback": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "cardName": "케이뱅크 SIMPLE 카드",
       "reason": "전용 할인 카드가 없다면, 전월 실적 조건 제한 없이 어디서나 0.8% 기본 청구할인을 즉시 받을 수 있는 이 카드를 차선책으로 사용해 보세요.",
-      "isFallback": true
-    },
-    {
-      "rank": 5,
-      "cardName": "BC 바로 에어 마스터",
-      "reason": "아고다 제휴는 아니지만, 전월 실적 조건 없이 1,000원당 1 마일리지가 기본 적립되어 범용 카드로 활용성이 높습니다.",
       "isFallback": true
     }
   ],
@@ -770,32 +770,32 @@ const rankingData = {
   "땡처리닷컴": [
     {
       "rank": 1,
+      "cardName": "BC바로 MACAO 카드",
+      "reason": "해당 몰 전용 혜택은 없으나, 트래블월렛 기능이 내장되어 있어 여행을 준비 중이시라면 가장 유용하게 쓸 수 있는 해외결제 필수 카드입니다.",
+      "isFallback": false
+    },
+    {
+      "rank": 2,
       "cardName": "BC 바로 ZONE 카드",
       "reason": "땡처리닷컴 전용 특별 제휴는 없으나, 주요 온라인몰(쿠팡, 다이소 등) 7% 결제일 할인이 강력해 차선책으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "cardName": "신세계 BC 바로 콰트로 플러스",
       "reason": "땡처리닷컴 전용 혜택은 없으나, 기타 주요 온라인몰(쿠팡, 11번가 등) 7% 할인을 제공하는 필수 카드라 보조 결제용으로 추천합니다.",
       "isFallback": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "cardName": "GOAT BC 바로카드",
       "reason": "비록 특별 제휴는 없으나, 실적이나 한도 없이 1.5% ~ 최대 3% 페이북 머니가 범용적으로 무조건 적립되어 유리합니다.",
       "isFallback": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "cardName": "케이뱅크 SIMPLE 카드",
       "reason": "전용 할인 카드가 없다면, 전월 실적 조건 제한 없이 어디서나 0.8% 기본 청구할인을 즉시 받을 수 있는 이 카드를 차선책으로 사용해 보세요.",
-      "isFallback": true
-    },
-    {
-      "rank": 5,
-      "cardName": "BC 바로 에어 마스터",
-      "reason": "땡처리닷컴 제휴는 아니지만, 전월 실적 조건 없이 1,000원당 1 마일리지가 기본 적립되어 범용 카드로 활용성이 높습니다.",
       "isFallback": true
     }
   ],
