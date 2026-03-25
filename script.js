@@ -67,7 +67,7 @@ function centerTab(buttonEl) {
 
 // Render Cards for the selected mall
 function renderCards() {
-    currentMallTitle.textContent = `${activeMall} 추천 카드 랭킹`;
+    currentMallTitle.textContent = `${activeMall}에서는 이 카드 추천!`;
     cardsGrid.innerHTML = '';
     
     const cards = rankingData[activeMall] || [];
