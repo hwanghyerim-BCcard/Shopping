@@ -125,7 +125,7 @@ function renderCards() {
                 el.className = 'excluded-card';
                 
                 const imgHtml = meta.image ? `<img src="${meta.image}" class="excluded-card-image" alt="${name}">` : '<div class="excluded-card-image-placeholder"></div>';
-                const reason = "해당 쇼핑몰 제휴 혜택 없음 (상대적 혜택률 우위 밀림) 및 범용 추천 우선순위 제외";
+                const reason = "해당 쇼핑몰 제휴 혜택 없음";
                 
                 el.innerHTML = `
                     ${imgHtml}
