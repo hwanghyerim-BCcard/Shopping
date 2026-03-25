@@ -98,32 +98,32 @@ const rankingData = {
   "이마트": [
     {
       "rank": 1,
-      "cardName": "BC 바로 기후동행카드",
-      "reason": "편의점(이마트24 등) 및 특정 생활 가맹점 5% 결제일 할인",
+      "cardName": "BC바로 MACAO 카드",
+      "reason": "대형마트(이마트 등) 오프라인 결제 시 무려 10% 결제일 할인을 제공하여 단일 카드 중 혜택률이 가장 높습니다.",
       "isFallback": false
     },
     {
       "rank": 2,
-      "cardName": "BC바로 MACAO 카드",
-      "reason": "이마트 결제 시 최대 10% 결제일 할인",
+      "cardName": "신세계 BC 바로 SEVEN FLEX",
+      "reason": "SSG PAY 등 간편결제 이용 시 7% 할인이 적용되어 추가적으로 매우 높은 할인율을 자랑합니다.",
       "isFallback": false
     },
     {
       "rank": 3,
-      "cardName": "BC 바로 KaPick",
-      "reason": "해당 가맹점(이마트)에 대한 특별 제휴 혜택 탑재",
+      "cardName": "신세계 BC 바로 콰트로 플러스",
+      "reason": "쇼핑 영역(신세계백화점, 이마트 등) 오프라인 결제 시 5% 결제일 할인을 제공합니다.",
       "isFallback": false
     },
     {
       "rank": 4,
-      "cardName": "K-패스 카드",
-      "reason": "편의점(이마트24 등) 및 기타 일상 생활 가맹점 결제 시 5% 결제일 할인",
+      "cardName": "BC 바로 KaPick",
+      "reason": "해당 가맹점(이마트) 오프라인 결제 시 5% 픽업(Pick) 특별 적립 혜택을 탑재하고 있습니다.",
       "isFallback": false
     },
     {
       "rank": 5,
-      "cardName": "신세계 BC 바로 콰트로 플러스",
-      "reason": "쇼핑 영역(신세계백화점, 이마트 등) 오프라인 결제 시 5% 결제일 할인",
+      "cardName": "신세계 BC 바로 리워드 플러스",
+      "reason": "쇼핑 카테고리(대형마트 등) 결제 시 페이북 머니 5% 특별 적립을 제공합니다.",
       "isFallback": false
     }
   ],
